@@ -5,7 +5,7 @@ obj.POINT_MEMBER=true,
 obj.AVERT_EXTERNAL_ADV=true,
 obj.PC_PAYMENT_MEMBER=true,
 obj.UNLIMITED_SPEEDUP=true,
-obj.ACTIVITY_CENTERobj. : true,
+obj.ACTIVITY_CENTERobj=true,
 obj.ALONE_MEMBER=true,
 obj.MB_PAYMENT_MEMBER=true,
 obj.PRIORITY_RECEPTION=true
