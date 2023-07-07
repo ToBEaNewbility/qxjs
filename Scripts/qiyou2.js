@@ -10,7 +10,5 @@ obj.ALONE_MEMBER=true,
 obj.MB_PAYMENT_MEMBER=true,
 obj.PRIORITY_RECEPTION=true
 
-obj.member.user_type=1;
-obj.member.member_pay_flag=1;
 body = JSON.stringify(obj); // 重新打包回json字符串
 $done(body); // 结束修改
